@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-08-01T01:56:20.796432",
+  "equipment_id": "EQ-4999",
+  "equipment_type": "air_conditioner",
+  "failure_probability": 0.4939721089151345,
+  "alert_level": "medium",
+  "location": "Room-LECTURE678",
+  "recommended_action": "Schedule preventive maintenance within 30 days"
+}

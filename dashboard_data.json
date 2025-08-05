@@ -1,0 +1,18 @@
+{
+  "last_updated": "2025-07-26T20:44:04.482401",
+  "equipment_summary": {
+    "high": 26,
+    "medium": 19,
+    "critical": 5
+  },
+  "active_alerts": 50,
+  "model_performance": {
+    "model_name": "Linear Regression",
+    "accuracy": 0.4724441712763778,
+    "recall": 0.9918279569892473
+  },
+  "business_impact": {
+    "potential_savings": 4788800.0,
+    "roi_percentage": 278.22449453869393
+  }
+}

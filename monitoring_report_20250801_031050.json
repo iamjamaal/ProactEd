@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-08-01T03:10:50.267935",
+  "total_equipment": 5000,
+  "alerts_generated": 0,
+  "equipment_by_risk": {
+    "critical": 396,
+    "high": 1707,
+    "medium": 4278,
+    "low": 722
+  },
+  "fleet_health_score": 0.5365188,
+  "average_failure_probability": 0.46380065173564655,
+  "alerts": []
+}

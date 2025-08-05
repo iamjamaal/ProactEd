@@ -1,0 +1,38 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2025-08-01T14:32:54.643078",
+  "auto_update": true,
+  "sections": {
+    "readme": {
+      "file": "README.md",
+      "auto_sections": [
+        "installation",
+        "features",
+        "api",
+        "changelog"
+      ]
+    },
+    "documentation": {
+      "file": "DOCUMENTATION.md",
+      "auto_sections": [
+        "architecture",
+        "features",
+        "api",
+        "deployment"
+      ]
+    },
+    "api_docs": {
+      "file": "API_DOCUMENTATION.txt",
+      "auto_generate": true
+    },
+    "changelog": {
+      "file": "CHANGELOG.md",
+      "auto_generate": true
+    }
+  },
+  "feature_tracking": {
+    "completed_features": [],
+    "in_progress_features": [],
+    "planned_features": []
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-08-01T01:56:20.675328",
+  "equipment_id": "EQ-2164",
+  "equipment_type": "podium",
+  "failure_probability": 0.4414270324271515,
+  "alert_level": "medium",
+  "location": "Room-LAB239",
+  "recommended_action": "Schedule preventive maintenance within 30 days"
+}

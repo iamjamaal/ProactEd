@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-08-01T01:56:20.749881",
+  "equipment_id": "EQ-4046",
+  "equipment_type": "podium",
+  "failure_probability": 0.535103191171242,
+  "alert_level": "high",
+  "location": "Room-SEMINAR945",
+  "recommended_action": "Schedule maintenance within 7 days - Monitor closely"
+}

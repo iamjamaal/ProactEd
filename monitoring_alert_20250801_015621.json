@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-08-01T01:56:20.608348",
+  "equipment_id": "EQ-900",
+  "equipment_type": "podium",
+  "failure_probability": 0.3203497865083763,
+  "alert_level": "medium",
+  "location": "Room-SEMINAR966",
+  "recommended_action": "Schedule preventive maintenance within 30 days"
+}

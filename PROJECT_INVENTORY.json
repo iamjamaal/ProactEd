@@ -1,0 +1,1045 @@
+{
+  "scan_date": "2025-08-01T14:33:05.699316",
+  "project_root": ".",
+  "files": {
+    "python_files": [
+      {
+        "path": "advanced_analytics.py",
+        "size": 11939,
+        "modified": "2025-08-01T01:52:37.599644",
+        "created": "2025-08-01T01:51:00.719840",
+        "hash": "832645aa4dd88fb9f1e8c8476dee6047",
+        "lines": 305,
+        "purpose": "Python module"
+      },
+      {
+        "path": "analysis_visual.py",
+        "size": 11584,
+        "modified": "2025-07-24T01:21:08.174659",
+        "created": "2025-07-24T01:20:57.309234",
+        "hash": "455293db5def6d7cea786748cee9eb8f",
+        "lines": 278,
+        "purpose": "Python module"
+      },
+      {
+        "path": "api_integration.py",
+        "size": 17023,
+        "modified": "2025-07-28T11:26:24.299759",
+        "created": "2025-07-28T10:01:35.056128",
+        "hash": "1d5b5d0a833a67e7358981e9bc47e768",
+        "lines": 555,
+        "purpose": "Python module"
+      },
+      {
+        "path": "auth.py",
+        "size": 17911,
+        "modified": "2025-08-01T14:17:28.372487",
+        "created": "2025-08-01T14:11:58.788621",
+        "hash": "00d5f2ac48a363806279338fa194013f",
+        "lines": 484,
+        "purpose": "Authentication and authorization system"
+      },
+      {
+        "path": "auto_retrain.py",
+        "size": 17048,
+        "modified": "2025-08-01T02:19:54.445954",
+        "created": "2025-08-01T02:10:00.404817",
+        "hash": "f16353d27c96d6ee194230e236cb8e5a",
+        "lines": 398,
+        "purpose": "Python module"
+      },
+      {
+        "path": "check_db.py",
+        "size": 0,
+        "modified": "2025-08-01T13:59:30.793459",
+        "created": "2025-08-01T13:59:30.793459",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+        "lines": 0,
+        "purpose": "Python module"
+      },
+      {
+        "path": "dashboard.py",
+        "size": 73541,
+        "modified": "2025-08-01T03:13:21.528619",
+        "created": "2025-07-26T21:22:35.921996",
+        "hash": "cfcf3b623586d7f246a9e1015187b17e",
+        "lines": 1679,
+        "purpose": "Main dashboard interface"
+      },
+      {
+        "path": "dashboard_integration.py",
+        "size": 23015,
+        "modified": "2025-07-28T21:01:14.747260",
+        "created": "2025-07-28T20:59:23.723846",
+        "hash": "8ea092657a4266a21b7be36e42388c97",
+        "lines": 528,
+        "purpose": "Python module"
+      },
+      {
+        "path": "database_dashboard.py",
+        "size": 16929,
+        "modified": "2025-08-01T02:11:42.965480",
+        "created": "2025-08-01T02:08:39.034949",
+        "hash": "f1ea7e0f202b6e5a791813ff7f51a956",
+        "lines": 397,
+        "purpose": "Python module"
+      },
+      {
+        "path": "database_integration.py",
+        "size": 25100,
+        "modified": "2025-08-01T03:12:20.082898",
+        "created": "2025-08-01T01:54:39.528999",
+        "hash": "a2b4ab82ee346e5c4310e59d931b9759",
+        "lines": 563,
+        "purpose": "Database operations and management"
+      },
+      {
+        "path": "database_migration.py",
+        "size": 15959,
+        "modified": "2025-08-01T02:11:42.957638",
+        "created": "2025-08-01T02:07:34.803946",
+        "hash": "616c1df62496382d5c4798841bf85f90",
+        "lines": 343,
+        "purpose": "Python module"
+      },
+      {
+        "path": "dataset.py",
+        "size": 15150,
+        "modified": "2025-07-26T15:03:46.128021",
+        "created": "2025-07-24T01:16:44.817681",
+        "hash": "b4c0903c46235b1c84e63ee2102e1a80",
+        "lines": 329,
+        "purpose": "Python module"
+      },
+      {
+        "path": "docs_updater.py",
+        "size": 18784,
+        "modified": "2025-08-01T14:20:31.070898",
+        "created": "2025-08-01T14:18:41.670180",
+        "hash": "0df666b0a20a2bcd10bfa1f11263ed95",
+        "lines": 534,
+        "purpose": "Python module"
+      },
+      {
+        "path": "enhanced_ml_pipeline.py",
+        "size": 12578,
+        "modified": "2025-08-01T01:55:50.931193",
+        "created": "2025-08-01T01:53:36.553517",
+        "hash": "efd5bec179226f02cf28bc1f5430adbb",
+        "lines": 277,
+        "purpose": "Python module"
+      },
+      {
+        "path": "equipment_api.py",
+        "size": 7258,
+        "modified": "2025-07-26T21:02:21.534751",
+        "created": "2025-07-26T20:53:55.975582",
+        "hash": "dd80ef2606b16c06c82120484de9978f",
+        "lines": 199,
+        "purpose": "REST API endpoints"
+      },
+      {
+        "path": "equipment_cleaner.py",
+        "size": 8830,
+        "modified": "2025-07-26T17:00:41.879079",
+        "created": "2025-07-26T17:00:41.766623",
+        "hash": "c9ac1cd0699e22bcb3dab9ebc0a0e951",
+        "lines": 217,
+        "purpose": "Data preprocessing and cleaning"
+      },
+      {
+        "path": "equipment_monitor.py",
+        "size": 12365,
+        "modified": "2025-08-01T03:07:11.722034",
+        "created": "2025-08-01T01:51:46.253390",
+        "hash": "fbec1cfa1a03a05b7efdf2be395cbd6c",
+        "lines": 291,
+        "purpose": "Real-time monitoring system"
+      },
+      {
+        "path": "interactive_tool.py",
+        "size": 14718,
+        "modified": "2025-07-26T15:52:18.384191",
+        "created": "2025-07-26T15:52:18.347123",
+        "hash": "6781984e118bd27f4d31b583b146e213",
+        "lines": 402,
+        "purpose": "Python module"
+      },
+      {
+        "path": "mobile_dashboard.py",
+        "size": 22344,
+        "modified": "2025-08-01T14:17:28.373494",
+        "created": "2025-08-01T14:15:49.233073",
+        "hash": "ca380875f52cfe8c0e6eee4582d79302",
+        "lines": 598,
+        "purpose": "Mobile-responsive dashboard components"
+      },
+      {
+        "path": "mobile_interface.py",
+        "size": 14869,
+        "modified": "2025-08-01T02:11:42.957638",
+        "created": "2025-08-01T02:11:01.525675",
+        "hash": "4c72322a6ce24222606ee9be7dbe30a9",
+        "lines": 454,
+        "purpose": "Python module"
+      },
+      {
+        "path": "production_predict_function.py",
+        "size": 1911,
+        "modified": "2025-07-31T13:32:54.891927",
+        "created": "2025-07-26T20:22:01.856543",
+        "hash": "10a2bc49e4f36a624e81ac0c8c2b7840",
+        "lines": 61,
+        "purpose": "Production prediction engine"
+      },
+      {
+        "path": "project_manager.py",
+        "size": 20768,
+        "modified": "2025-08-01T14:17:28.373494",
+        "created": "2025-08-01T14:17:14.206772",
+        "hash": "9dc4c0a0dd2032cbb1b8a18d53a6737c",
+        "lines": 553,
+        "purpose": "Python module"
+      },
+      {
+        "path": "project_status_dashboard.py",
+        "size": 18008,
+        "modified": "2025-08-01T14:22:19.256287",
+        "created": "2025-08-01T14:21:50.765457",
+        "hash": "4b1a80aea9ed659280d9a8960c7ed733",
+        "lines": 493,
+        "purpose": "Python module"
+      },
+      {
+        "path": "roll_back_dashboard.py",
+        "size": 72711,
+        "modified": "2025-07-30T20:07:30.464597",
+        "created": "2025-07-28T09:47:53.678612",
+        "hash": "5f3217fcda18dd0eb4198df379c88dfe",
+        "lines": 1632,
+        "purpose": "Python module"
+      },
+      {
+        "path": "test_alert_changes.py",
+        "size": 0,
+        "modified": "2025-08-01T13:59:35.625695",
+        "created": "2025-08-01T13:59:35.625695",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+        "lines": 0,
+        "purpose": "Unit tests"
+      },
+      {
+        "path": "test_dashboard_alerts.py",
+        "size": 0,
+        "modified": "2025-08-01T13:59:31.804402",
+        "created": "2025-08-01T13:59:31.804402",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+        "lines": 0,
+        "purpose": "Unit tests"
+      },
+      {
+        "path": "test_email_import.py",
+        "size": 0,
+        "modified": "2025-07-30T11:38:46.982726",
+        "created": "2025-07-30T11:38:46.982726",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+        "lines": 0,
+        "purpose": "Unit tests"
+      },
+      {
+        "path": "test_maintenance_scheduling.py",
+        "size": 2399,
+        "modified": "2025-08-01T02:55:55.930413",
+        "created": "2025-08-01T02:55:40.654032",
+        "hash": "e2068c06b8dd158bb34c889e94a7bae7",
+        "lines": 64,
+        "purpose": "Unit tests"
+      },
+      {
+        "path": "tests\\conftest.py",
+        "size": 4651,
+        "modified": "2025-08-01T14:17:28.364377",
+        "created": "2025-08-01T14:07:32.398550",
+        "hash": "a4c5f46e0d9f89a352f2a0a1105a5e98",
+        "lines": 148,
+        "purpose": "Python module"
+      },
+      {
+        "path": "tests\\test_api.py",
+        "size": 10268,
+        "modified": "2025-08-01T14:17:28.373494",
+        "created": "2025-08-01T14:09:16.911498",
+        "hash": "ef563740f6d2f0f1a65cc5873870310e",
+        "lines": 282,
+        "purpose": "Unit tests"
+      },
+      {
+        "path": "tests\\test_dashboard.py",
+        "size": 15024,
+        "modified": "2025-08-01T14:17:28.373494",
+        "created": "2025-08-01T14:10:40.108472",
+        "hash": "6179ab934439aa6df86fa6ac494e34f3",
+        "lines": 415,
+        "purpose": "Unit tests"
+      },
+      {
+        "path": "tests\\test_models.py",
+        "size": 12005,
+        "modified": "2025-08-01T14:17:28.364377",
+        "created": "2025-08-01T14:08:26.878608",
+        "hash": "f0db36b1903a2bff9e0b32a2b1e08ddd",
+        "lines": 284,
+        "purpose": "Unit tests"
+      },
+      {
+        "path": "tests\\__init__.py",
+        "size": 56,
+        "modified": "2025-08-01T14:17:28.364377",
+        "created": "2025-08-01T14:07:02.331903",
+        "hash": "32f841edec1bc7bfe7b7cc06b9e36424",
+        "lines": 1,
+        "purpose": "Python module"
+      }
+    ],
+    "data_files": [
+      {
+        "path": "cleaned_equipment_data.csv",
+        "size": 1291812,
+        "modified": "2025-07-27T19:52:57.607995",
+        "created": "2025-07-27T15:08:28.150748",
+        "hash": "19a5715bd54ffa269a8188f569d3a8de",
+        "lines": null,
+        "purpose": "Processed training data"
+      },
+      {
+        "path": "cleaned_equipment_data_20250726_173024.csv",
+        "size": 1291812,
+        "modified": "2025-07-26T17:30:24.773848",
+        "created": "2025-07-26T17:30:24.252883",
+        "hash": "19a5715bd54ffa269a8188f569d3a8de",
+        "lines": null,
+        "purpose": "Data file"
+      },
+      {
+        "path": "cleaned_equipment_data_20250726_180412.csv",
+        "size": 1291812,
+        "modified": "2025-07-26T18:04:12.280576",
+        "created": "2025-07-26T18:04:12.041675",
+        "hash": "19a5715bd54ffa269a8188f569d3a8de",
+        "lines": null,
+        "purpose": "Data file"
+      },
+      {
+        "path": "cleaned_equipment_data_20250726_191641.csv",
+        "size": 1291812,
+        "modified": "2025-07-26T19:16:41.289806",
+        "created": "2025-07-26T19:16:41.178816",
+        "hash": "19a5715bd54ffa269a8188f569d3a8de",
+        "lines": null,
+        "purpose": "Data file"
+      },
+      {
+        "path": "cleaned_equipment_data_20250726_194803.csv",
+        "size": 1291812,
+        "modified": "2025-07-26T19:48:04.096473",
+        "created": "2025-07-26T19:48:03.971715",
+        "hash": "19a5715bd54ffa269a8188f569d3a8de",
+        "lines": null,
+        "purpose": "Data file"
+      },
+      {
+        "path": "cleaned_equipment_data_20250726_195924.csv",
+        "size": 1291812,
+        "modified": "2025-07-26T19:59:24.496754",
+        "created": "2025-07-26T19:59:24.398609",
+        "hash": "19a5715bd54ffa269a8188f569d3a8de",
+        "lines": null,
+        "purpose": "Data file"
+      },
+      {
+        "path": "cleaned_equipment_data_20250726_201132.csv",
+        "size": 1291812,
+        "modified": "2025-07-26T20:11:32.553304",
+        "created": "2025-07-26T20:11:32.458513",
+        "hash": "19a5715bd54ffa269a8188f569d3a8de",
+        "lines": null,
+        "purpose": "Data file"
+      },
+      {
+        "path": "cleaned_equipment_data_20250727_125235.csv",
+        "size": 1291812,
+        "modified": "2025-07-27T12:52:35.918429",
+        "created": "2025-07-27T12:52:35.737713",
+        "hash": "19a5715bd54ffa269a8188f569d3a8de",
+        "lines": null,
+        "purpose": "Data file"
+      },
+      {
+        "path": "cleaned_equipment_data_20250727_191013.csv",
+        "size": 1291812,
+        "modified": "2025-07-27T19:10:13.459780",
+        "created": "2025-07-27T19:10:13.289570",
+        "hash": "19a5715bd54ffa269a8188f569d3a8de",
+        "lines": null,
+        "purpose": "Data file"
+      },
+      {
+        "path": "cleaned_equipment_data_20250727_195257.csv",
+        "size": 1291812,
+        "modified": "2025-07-27T19:52:57.490052",
+        "created": "2025-07-27T19:52:57.385699",
+        "hash": "19a5715bd54ffa269a8188f569d3a8de",
+        "lines": null,
+        "purpose": "Data file"
+      },
+      {
+        "path": "cleaned_equipment_data_20250728_104728.csv",
+        "size": 1291812,
+        "modified": "2025-07-28T10:47:28.450733",
+        "created": "2025-07-28T10:47:28.363936",
+        "hash": "19a5715bd54ffa269a8188f569d3a8de",
+        "lines": null,
+        "purpose": "Data file"
+      },
+      {
+        "path": "cleaned_equipment_data_20250729_123524.csv",
+        "size": 1291812,
+        "modified": "2025-07-29T12:35:25.023413",
+        "created": "2025-07-29T12:35:24.916792",
+        "hash": "19a5715bd54ffa269a8188f569d3a8de",
+        "lines": null,
+        "purpose": "Data file"
+      },
+      {
+        "path": "cleaned_equipment_data_20250729_145629.csv",
+        "size": 1291812,
+        "modified": "2025-07-29T14:56:29.970040",
+        "created": "2025-07-29T14:56:29.750715",
+        "hash": "19a5715bd54ffa269a8188f569d3a8de",
+        "lines": null,
+        "purpose": "Data file"
+      },
+      {
+        "path": "cleaned_equipment_data_20250729_150955.csv",
+        "size": 1291812,
+        "modified": "2025-07-29T15:09:56.111079",
+        "created": "2025-07-29T15:09:55.620181",
+        "hash": "19a5715bd54ffa269a8188f569d3a8de",
+        "lines": null,
+        "purpose": "Data file"
+      },
+      {
+        "path": "cleaned_equipment_data_20250729_152636.csv",
+        "size": 1291812,
+        "modified": "2025-07-29T15:26:37.388714",
+        "created": "2025-07-29T15:26:36.886907",
+        "hash": "19a5715bd54ffa269a8188f569d3a8de",
+        "lines": null,
+        "purpose": "Data file"
+      },
+      {
+        "path": "cleaned_equipment_data_20250730_174522.csv",
+        "size": 1291812,
+        "modified": "2025-07-30T17:45:22.473414",
+        "created": "2025-07-30T17:45:22.213227",
+        "hash": "19a5715bd54ffa269a8188f569d3a8de",
+        "lines": null,
+        "purpose": "Data file"
+      },
+      {
+        "path": "cleaned_equipment_data_20250731_133133.csv",
+        "size": 1291812,
+        "modified": "2025-07-31T13:31:33.338538",
+        "created": "2025-07-31T13:31:33.130884",
+        "hash": "19a5715bd54ffa269a8188f569d3a8de",
+        "lines": null,
+        "purpose": "Data file"
+      },
+      {
+        "path": "clean_equipment_data.csv",
+        "size": 1291812,
+        "modified": "2025-07-31T13:31:32.982826",
+        "created": "2025-07-26T17:18:13.342540",
+        "hash": "19a5715bd54ffa269a8188f569d3a8de",
+        "lines": null,
+        "purpose": "Data file"
+      },
+      {
+        "path": "equipment_predictions.csv",
+        "size": 498,
+        "modified": "2025-07-31T13:31:38.331553",
+        "created": "2025-07-26T17:32:58.722442",
+        "hash": "b386f2fb8e7fa53a9b4669e769b27395",
+        "lines": null,
+        "purpose": "Data file"
+      },
+      {
+        "path": "equipment_report_20250730_143903.csv",
+        "size": 1416300,
+        "modified": "2025-07-30T14:39:04.031062",
+        "created": "2025-07-30T14:39:03.865854",
+        "hash": "ae6d1bb3944f07ff7eca286236d98b28",
+        "lines": null,
+        "purpose": "Data file"
+      },
+      {
+        "path": "knust_classroom_equipment_dataset.csv",
+        "size": 918392,
+        "modified": "2025-07-24T01:18:13.012263",
+        "created": "2025-07-24T01:18:12.910609",
+        "hash": "1afb2aa7ed6e1781496313a248a03cf3",
+        "lines": null,
+        "purpose": "Data file"
+      },
+      {
+        "path": "maintenance_schedule.csv",
+        "size": 220006,
+        "modified": "2025-07-31T13:40:15.553750",
+        "created": "2025-07-26T20:39:33.183251",
+        "hash": "4f7f19ef658679c117a08237b64d686e",
+        "lines": null,
+        "purpose": "Data file"
+      },
+      {
+        "path": "model_performance_comparison.csv",
+        "size": 365,
+        "modified": "2025-07-31T13:32:54.803493",
+        "created": "2025-07-26T20:20:47.294166",
+        "hash": "9c434c345346a92505d7a9f9319f2f03",
+        "lines": null,
+        "purpose": "Data file"
+      }
+    ],
+    "model_files": [
+      {
+        "path": "advanced_models.pkl",
+        "size": 23402970,
+        "modified": "2025-07-31T13:32:54.722292",
+        "created": "2025-07-26T20:19:46.851627",
+        "hash": "109388831f6998835c4922671d3fb4cb",
+        "lines": null,
+        "purpose": "ML model or data file"
+      },
+      {
+        "path": "complete_equipment_failure_prediction_system.pkl",
+        "size": 15245467,
+        "modified": "2025-08-01T02:23:00.815555",
+        "created": "2025-07-26T20:46:54.486879",
+        "hash": "57427e81c9e0b8d7e37a5e010d6ad65b",
+        "lines": null,
+        "purpose": "Trained ML model package"
+      },
+      {
+        "path": "equipment_failure_model_deployment.pkl",
+        "size": 1777,
+        "modified": "2025-07-31T13:32:54.886667",
+        "created": "2025-07-26T20:22:01.850758",
+        "hash": "c1d1d7ad25ae42ae66014c9d8713afd2",
+        "lines": null,
+        "purpose": "ML model or data file"
+      },
+      {
+        "path": "model_backup_20250801_022006.pkl",
+        "size": 275991,
+        "modified": "2025-07-27T15:08:28.681392",
+        "created": "2025-07-26T20:46:54.486879",
+        "hash": "e623d999e4fadf7fc8d67eba0b4f0e86",
+        "lines": null,
+        "purpose": "ML model or data file"
+      },
+      {
+        "path": "model_backup_20250801_022307.pkl",
+        "size": 20530309,
+        "modified": "2025-08-01T02:20:04.198831",
+        "created": "2025-07-26T20:46:54.486879",
+        "hash": "24f1c300510f59f9968de66b9cfc6398",
+        "lines": null,
+        "purpose": "ML model or data file"
+      }
+    ],
+    "config_files": [
+      {
+        "path": "dashboard_data.json",
+        "size": 415,
+        "modified": "2025-07-26T20:44:04.507646",
+        "created": "2025-07-26T20:40:46.874393",
+        "hash": "2746cbf81cb002990f4a62ed4f018547",
+        "lines": 18,
+        "purpose": "Configuration or data file"
+      },
+      {
+        "path": "docs_config.json",
+        "size": 785,
+        "modified": "2025-08-01T14:32:54.643460",
+        "created": "2025-08-01T14:20:32.433354",
+        "hash": "9bd6cbf9dee615b128098eb3b5906d15",
+        "lines": 38,
+        "purpose": "Configuration or data file"
+      },
+      {
+        "path": "FEATURES.json",
+        "size": 523194,
+        "modified": "2025-08-01T14:33:05.692716",
+        "created": "2025-08-01T14:17:31.421241",
+        "hash": "ce665dc666af20c83e827fe13c0a3b14",
+        "lines": 17861,
+        "purpose": "Configuration or data file"
+      },
+      {
+        "path": "feature_info.json",
+        "size": 1022,
+        "modified": "2025-07-31T13:31:33.338538",
+        "created": "2025-07-26T17:30:24.779940",
+        "hash": "a5567d253b6500b30bbb064bdc9e3216",
+        "lines": 44,
+        "purpose": "Configuration or data file"
+      },
+      {
+        "path": "model_training_log.json",
+        "size": 165,
+        "modified": "2025-08-01T02:23:07.453536",
+        "created": "2025-08-01T02:20:06.942449",
+        "hash": "036bbb09d294edeb57ea9cb784c5e470",
+        "lines": 6,
+        "purpose": "Configuration or data file"
+      },
+      {
+        "path": "monitoring_alert_20250801_015620.json",
+        "size": 335,
+        "modified": "2025-08-01T01:56:20.999575",
+        "created": "2025-08-01T01:56:20.793771",
+        "hash": "fba8711a606a01661873805e0384aed6",
+        "lines": 9,
+        "purpose": "Configuration or data file"
+      },
+      {
+        "path": "monitoring_alert_20250801_015621.json",
+        "size": 292,
+        "modified": "2025-08-01T01:56:21.988628",
+        "created": "2025-08-01T01:56:20.999575",
+        "hash": "ca57cd3d2a4dd92a9272d0237f6af97e",
+        "lines": 9,
+        "purpose": "Configuration or data file"
+      },
+      {
+        "path": "monitoring_alert_20250801_015622.json",
+        "size": 302,
+        "modified": "2025-08-01T01:56:22.995883",
+        "created": "2025-08-01T01:56:22.008280",
+        "hash": "eef89b1aec8d22ea6cf69d2adf8be04a",
+        "lines": 9,
+        "purpose": "Configuration or data file"
+      },
+      {
+        "path": "monitoring_alert_20250801_015623.json",
+        "size": 289,
+        "modified": "2025-08-01T01:56:23.996238",
+        "created": "2025-08-01T01:56:23.001075",
+        "hash": "ed54ff9f11a7d649b0eb7e30b3457719",
+        "lines": 9,
+        "purpose": "Configuration or data file"
+      },
+      {
+        "path": "monitoring_alert_20250801_015624.json",
+        "size": 306,
+        "modified": "2025-08-01T01:56:24.998816",
+        "created": "2025-08-01T01:56:23.996238",
+        "hash": "737b4db56c5a3f92d6d3b34c2e29d043",
+        "lines": 9,
+        "purpose": "Configuration or data file"
+      },
+      {
+        "path": "monitoring_alert_20250801_015625.json",
+        "size": 331,
+        "modified": "2025-08-01T01:56:25.998826",
+        "created": "2025-08-01T01:56:24.998816",
+        "hash": "6484130e815e6dde418f4c69f49a9602",
+        "lines": 9,
+        "purpose": "Configuration or data file"
+      },
+      {
+        "path": "monitoring_alert_20250801_015626.json",
+        "size": 296,
+        "modified": "2025-08-01T01:56:26.998173",
+        "created": "2025-08-01T01:56:25.999987",
+        "hash": "38b07f8e16ee5cc295ef9cbabb6b96ec",
+        "lines": 9,
+        "purpose": "Configuration or data file"
+      },
+      {
+        "path": "monitoring_alert_20250801_015627.json",
+        "size": 296,
+        "modified": "2025-08-01T01:56:27.995854",
+        "created": "2025-08-01T01:56:27.000182",
+        "hash": "818edee0ca97a136de9751f6a6f8a31e",
+        "lines": 9,
+        "purpose": "Configuration or data file"
+      },
+      {
+        "path": "monitoring_alert_20250801_015628.json",
+        "size": 302,
+        "modified": "2025-08-01T01:56:28.572425",
+        "created": "2025-08-01T01:56:27.999319",
+        "hash": "77816ece42e9b7226b59cbcdf04c310f",
+        "lines": 9,
+        "purpose": "Configuration or data file"
+      },
+      {
+        "path": "monitoring_report_20250726_204046.json",
+        "size": 17824,
+        "modified": "2025-07-26T20:40:46.873361",
+        "created": "2025-07-26T20:40:46.870255",
+        "hash": "4c62f74e22bd3a3e2021eefded781682",
+        "lines": 455,
+        "purpose": "Configuration or data file"
+      },
+      {
+        "path": "monitoring_report_20250801_015628.json",
+        "size": 1472763,
+        "modified": "2025-08-01T01:56:28.761184",
+        "created": "2025-08-01T01:56:28.575837",
+        "hash": "9d77f4c2ffdeb33aac7d8ef26593db89",
+        "lines": 38958,
+        "purpose": "Configuration or data file"
+      },
+      {
+        "path": "monitoring_report_20250801_031050.json",
+        "size": 321,
+        "modified": "2025-08-01T03:10:50.277781",
+        "created": "2025-08-01T03:10:50.276445",
+        "hash": "936b80492f938081fa2c154120423119",
+        "lines": 14,
+        "purpose": "Configuration or data file"
+      },
+      {
+        "path": "PROJECT_INVENTORY.json",
+        "size": 33889,
+        "modified": "2025-08-01T14:26:21.753483",
+        "created": "2025-08-01T14:17:31.809350",
+        "hash": "e3ffd8db1c15d5a11d64da973fc4c87e",
+        "lines": 1035,
+        "purpose": "Configuration or data file"
+      },
+      {
+        "path": "PROJECT_REPORT.json",
+        "size": 2481,
+        "modified": "2025-08-01T14:26:21.758505",
+        "created": "2025-08-01T14:17:31.809350",
+        "hash": "46b1ca3481adf08e8cd588f1373c14f9",
+        "lines": 114,
+        "purpose": "Configuration or data file"
+      },
+      {
+        "path": "retraining_report_20250801_022006.json",
+        "size": 423,
+        "modified": "2025-08-01T02:20:06.942449",
+        "created": "2025-08-01T02:20:06.942449",
+        "hash": "6b9977295174afcac98b931165aaf678",
+        "lines": 16,
+        "purpose": "Configuration or data file"
+      },
+      {
+        "path": "retraining_report_20250801_022307.json",
+        "size": 421,
+        "modified": "2025-08-01T02:23:07.458515",
+        "created": "2025-08-01T02:23:07.453536",
+        "hash": "af592b4a1fadd34c25c5247ca707d675",
+        "lines": 16,
+        "purpose": "Configuration or data file"
+      },
+      {
+        "path": "htmlcov\\status.json",
+        "size": 10065,
+        "modified": "2025-08-01T14:32:00.623633",
+        "created": "2025-08-01T14:30:52.204302",
+        "hash": "088211556d4da335f6471e3aec69226a",
+        "lines": 1,
+        "purpose": "Configuration or data file"
+      }
+    ],
+    "documentation": [
+      {
+        "path": "API_DOCUMENTATION.md",
+        "size": 1837,
+        "modified": "2025-08-01T14:32:54.641895",
+        "created": "2025-08-01T14:20:32.432346",
+        "hash": "1505871555270143ed07394825bacdc2",
+        "lines": 120,
+        "purpose": "Documentation"
+      },
+      {
+        "path": "CHANGELOG.md",
+        "size": 532,
+        "modified": "2025-08-01T14:22:21.980354",
+        "created": "2025-08-01T14:22:21.980354",
+        "hash": "80a41514ea6c729f228c20b6b84d99bf",
+        "lines": 16,
+        "purpose": "Version history and updates"
+      },
+      {
+        "path": "DOCUMENTATION.md",
+        "size": 21883,
+        "modified": "2025-08-01T14:17:28.373494",
+        "created": "2025-08-01T14:14:03.322682",
+        "hash": "482b4306958fad2ed3be61d9a5a41ef2",
+        "lines": 880,
+        "purpose": "Complete project documentation"
+      },
+      {
+        "path": "prompt.md",
+        "size": 10693,
+        "modified": "2025-07-24T01:34:03.013171",
+        "created": "2025-07-24T01:33:49.390099",
+        "hash": "ad91daca08f9177568691176cac3c281",
+        "lines": 274,
+        "purpose": "Documentation"
+      },
+      {
+        "path": "prompt1.md",
+        "size": 946,
+        "modified": "2025-07-30T11:21:30.966427",
+        "created": "2025-07-30T11:21:30.900543",
+        "hash": "40fee79a1b00cae34aa72fda975a0e9b",
+        "lines": 10,
+        "purpose": "Documentation"
+      },
+      {
+        "path": "README.md",
+        "size": 116888,
+        "modified": "2025-08-01T14:32:54.635035",
+        "created": "2025-07-26T22:17:16.962135",
+        "hash": "b156ab3fea8700f13e13c7ffdb0df2f1",
+        "lines": 1440,
+        "purpose": "Project overview and quick start"
+      },
+      {
+        "path": "STRATEGIC_IMPLEMENTATION_SUMMARY.md",
+        "size": 7144,
+        "modified": "2025-08-01T14:24:27.479936",
+        "created": "2025-08-01T14:24:07.830900",
+        "hash": "a9735ed8ef89ef3bdd7f40e9864e9502",
+        "lines": 201,
+        "purpose": "Documentation"
+      }
+    ],
+    "text_files": [
+      {
+        "path": "API_DOCUMENTATION.txt",
+        "size": 2025,
+        "modified": "2025-07-26T21:02:21.536752",
+        "created": "2025-07-26T20:53:56.007963",
+        "hash": "d4d63c0f259391eace36e118bee38f84",
+        "lines": 76,
+        "purpose": "Unknown"
+      },
+      {
+        "path": "dashboard_requirements.txt",
+        "size": 88,
+        "modified": "2025-07-26T22:44:13.385048",
+        "created": "2025-07-26T21:29:28.238975",
+        "hash": "0d17cbf178500669ec78f4f972b742e7",
+        "lines": 6,
+        "purpose": "Unknown"
+      },
+      {
+        "path": "DEPLOYMENT_GUIDE.txt",
+        "size": 1607,
+        "modified": "2025-07-26T22:43:40.632308",
+        "created": "2025-07-26T20:46:54.518517",
+        "hash": "23333300281eac897068cd1871984d37",
+        "lines": 50,
+        "purpose": "Unknown"
+      },
+      {
+        "path": "DEPLOYMENT_GUIDE_WITH_EMOJIS.txt",
+        "size": 1637,
+        "modified": "2025-07-26T22:43:40.634318",
+        "created": "2025-07-26T20:49:15.109302",
+        "hash": "2036dd3fe6ad41d281ffc640813f1cad",
+        "lines": 50,
+        "purpose": "Unknown"
+      },
+      {
+        "path": "FILE_INVENTORY.txt",
+        "size": 2602,
+        "modified": "2025-07-27T19:54:40.675196",
+        "created": "2025-07-26T22:19:26.086192",
+        "hash": "ee09d6522e8c3ff7bb1c9632e8610025",
+        "lines": 47,
+        "purpose": "Unknown"
+      },
+      {
+        "path": "PROJECT_SUMMARY.txt",
+        "size": 2010,
+        "modified": "2025-07-27T19:54:40.673184",
+        "created": "2025-07-26T22:19:26.083562",
+        "hash": "53c98c9d15f6d748dc60d20a05f658a7",
+        "lines": 57,
+        "purpose": "Unknown"
+      },
+      {
+        "path": "requirements.txt",
+        "size": 106,
+        "modified": "2025-07-27T13:40:12.670700",
+        "created": "2025-07-26T20:55:43.217870",
+        "hash": "e8200aea39405daa6bce0bf024d86cfe",
+        "lines": 7,
+        "purpose": "Python dependencies"
+      }
+    ],
+    "notebooks": [
+      {
+        "path": "proacted_preprocessing.ipynb",
+        "size": 1601487,
+        "modified": "2025-07-31T13:53:12.823717",
+        "created": "2025-07-24T01:34:15.981608",
+        "hash": "1268cd43587c94b38c1ee3c0ff64d38a",
+        "lines": null,
+        "purpose": "Unknown"
+      }
+    ],
+    "requirements": [
+      {
+        "path": "requirements.txt",
+        "size": 106,
+        "modified": "2025-07-27T13:40:12.670700",
+        "created": "2025-07-26T20:55:43.217870",
+        "hash": "e8200aea39405daa6bce0bf024d86cfe",
+        "lines": 7,
+        "purpose": "Python dependencies"
+      }
+    ],
+    "docker_files": [],
+    "test_files": [
+      {
+        "path": "test_alert_changes.py",
+        "size": 0,
+        "modified": "2025-08-01T13:59:35.625695",
+        "created": "2025-08-01T13:59:35.625695",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+        "lines": 0,
+        "purpose": "Unit tests"
+      },
+      {
+        "path": "test_dashboard_alerts.py",
+        "size": 0,
+        "modified": "2025-08-01T13:59:31.804402",
+        "created": "2025-08-01T13:59:31.804402",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+        "lines": 0,
+        "purpose": "Unit tests"
+      },
+      {
+        "path": "test_email_import.py",
+        "size": 0,
+        "modified": "2025-07-30T11:38:46.982726",
+        "created": "2025-07-30T11:38:46.982726",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+        "lines": 0,
+        "purpose": "Unit tests"
+      },
+      {
+        "path": "test_maintenance_scheduling.py",
+        "size": 2399,
+        "modified": "2025-08-01T02:55:55.930413",
+        "created": "2025-08-01T02:55:40.654032",
+        "hash": "e2068c06b8dd158bb34c889e94a7bae7",
+        "lines": 64,
+        "purpose": "Unit tests"
+      },
+      {
+        "path": "tests\\test_api.py",
+        "size": 10268,
+        "modified": "2025-08-01T14:17:28.373494",
+        "created": "2025-08-01T14:09:16.911498",
+        "hash": "ef563740f6d2f0f1a65cc5873870310e",
+        "lines": 282,
+        "purpose": "Unit tests"
+      },
+      {
+        "path": "tests\\test_dashboard.py",
+        "size": 15024,
+        "modified": "2025-08-01T14:17:28.373494",
+        "created": "2025-08-01T14:10:40.108472",
+        "hash": "6179ab934439aa6df86fa6ac494e34f3",
+        "lines": 415,
+        "purpose": "Unit tests"
+      },
+      {
+        "path": "tests\\test_models.py",
+        "size": 12005,
+        "modified": "2025-08-01T14:17:28.364377",
+        "created": "2025-08-01T14:08:26.878608",
+        "hash": "f0db36b1903a2bff9e0b32a2b1e08ddd",
+        "lines": 284,
+        "purpose": "Unit tests"
+      }
+    ]
+  },
+  "directories": [
+    "htmlcov",
+    "tests"
+  ],
+  "statistics": {
+    "total_files": 106,
+    "total_size": 89657241,
+    "total_lines": 75707,
+    "by_category": {
+      "python_files": {
+        "count": 33,
+        "size": 514746,
+        "lines": 12764
+      },
+      "data_files": {
+        "count": 23,
+        "size": 25808177,
+        "lines": 0
+      },
+      "model_files": {
+        "count": 5,
+        "size": 59456514,
+        "lines": 0
+      },
+      "config_files": {
+        "count": 22,
+        "size": 2066517,
+        "lines": 58657
+      },
+      "documentation": {
+        "count": 7,
+        "size": 159923,
+        "lines": 2941
+      },
+      "text_files": {
+        "count": 7,
+        "size": 10075,
+        "lines": 293
+      },
+      "notebooks": {
+        "count": 1,
+        "size": 1601487,
+        "lines": 0
+      },
+      "requirements": {
+        "count": 1,
+        "size": 106,
+        "lines": 7
+      },
+      "docker_files": {
+        "count": 0,
+        "size": 0,
+        "lines": 0
+      },
+      "test_files": {
+        "count": 7,
+        "size": 39696,
+        "lines": 1045
+      }
+    }
+  },
+  "git_info": {
+    "branch": "master",
+    "commit": "10adcd09",
+    "full_commit": "10adcd099638a7302b84b98db42e610e41049c25"
+  }
+}

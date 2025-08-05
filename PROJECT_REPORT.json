@@ -1,0 +1,117 @@
+{
+  "generated_at": "2025-08-01T14:33:06.027429",
+  "project_statistics": {
+    "total_files": 106,
+    "total_size": 89657241,
+    "total_lines": 75707,
+    "by_category": {
+      "python_files": {
+        "count": 33,
+        "size": 514746,
+        "lines": 12764
+      },
+      "data_files": {
+        "count": 23,
+        "size": 25808177,
+        "lines": 0
+      },
+      "model_files": {
+        "count": 5,
+        "size": 59456514,
+        "lines": 0
+      },
+      "config_files": {
+        "count": 22,
+        "size": 2066517,
+        "lines": 58657
+      },
+      "documentation": {
+        "count": 7,
+        "size": 159923,
+        "lines": 2941
+      },
+      "text_files": {
+        "count": 7,
+        "size": 10075,
+        "lines": 293
+      },
+      "notebooks": {
+        "count": 1,
+        "size": 1601487,
+        "lines": 0
+      },
+      "requirements": {
+        "count": 1,
+        "size": 106,
+        "lines": 7
+      },
+      "docker_files": {
+        "count": 0,
+        "size": 0,
+        "lines": 0
+      },
+      "test_files": {
+        "count": 7,
+        "size": 39696,
+        "lines": 1045
+      }
+    }
+  },
+  "recent_changes": {
+    "status": "updated",
+    "changes": [
+      "Added: htmlcov\\status.json",
+      "Modified: docs_config.json",
+      "Modified: FEATURES.json",
+      "Modified: PROJECT_INVENTORY.json",
+      "Modified: PROJECT_REPORT.json",
+      "Modified: API_DOCUMENTATION.md",
+      "Modified: README.md"
+    ],
+    "added_files": [
+      "htmlcov\\status.json"
+    ],
+    "modified_files": [
+      "docs_config.json",
+      "FEATURES.json",
+      "PROJECT_INVENTORY.json",
+      "PROJECT_REPORT.json",
+      "API_DOCUMENTATION.md",
+      "README.md"
+    ],
+    "deleted_files": []
+  },
+  "development_progress": {
+    "total_features": 1168,
+    "status_breakdown": {
+      "completed": 1168
+    },
+    "completion_percentage": 100.0,
+    "categories": [
+      "Core ML",
+      "User Interface",
+      "Security",
+      "API",
+      "Database",
+      "Monitoring",
+      "Testing"
+    ]
+  },
+  "git_info": {
+    "branch": "master",
+    "commit": "10adcd09",
+    "full_commit": "10adcd099638a7302b84b98db42e610e41049c25"
+  },
+  "file_summary": {
+    "python_files": 33,
+    "data_files": 23,
+    "model_files": 5,
+    "config_files": 22,
+    "documentation": 7,
+    "text_files": 7,
+    "notebooks": 1,
+    "requirements": 1,
+    "docker_files": 0,
+    "test_files": 7
+  }
+}

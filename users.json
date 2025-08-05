@@ -1,0 +1,79 @@
+{
+  "admin": {
+    "username": "admin",
+    "password_hash": "af03c985444387bc717adadc1751c017:e5d6150930861df8462a278c670a7abf95fd4cdc3c8a62f9874b94c17cd430a8",
+    "role": "admin",
+    "email": "admin@equipment-monitoring.com",
+    "full_name": "System Administrator",
+    "created_at": "2025-08-01T14:44:53.378321",
+    "last_login": null,
+    "login_count": 0,
+    "is_active": true
+  },
+  "technician": {
+    "username": "technician",
+    "password_hash": "9c3cb5ddb165bdfaf833ca369001c83d:e07a16a5d03361fc822b566991191d016c682c02cf37353c3572883049a72c3e",
+    "role": "technician",
+    "email": "tech@equipment-monitoring.com",
+    "full_name": "Maintenance Technician",
+    "created_at": "2025-08-01T14:44:53.425247",
+    "last_login": null,
+    "login_count": 0,
+    "is_active": true
+  },
+  "viewer": {
+    "username": "viewer",
+    "password_hash": "e8b24dc03d7dd40c88566da56106a5d4:95f4dc59393f9ebeb01abccaf2adba6ec23e9809f12c2bdd0f5353a3d50e56de",
+    "role": "viewer",
+    "email": "viewer@equipment-monitoring.com",
+    "full_name": "Dashboard Viewer",
+    "created_at": "2025-08-01T14:44:53.478795",
+    "last_login": null,
+    "login_count": 0,
+    "is_active": true
+  },
+  "admin_user": {
+    "username": "admin_user",
+    "password_hash": "1fb87456b76073cd34b6d06343d3b1d0:7fb79742f0d5ef0daf31a74a5654585cc8cc8b5416af77197569c2e37003a4dc",
+    "role": "admin",
+    "email": "admin@test.com",
+    "full_name": "Admin User",
+    "created_at": "2025-08-01T14:48:07.788818",
+    "last_login": null,
+    "login_count": 0,
+    "is_active": true
+  },
+  "tech_user": {
+    "username": "tech_user",
+    "password_hash": "e2c13498057026d0a9ff01a8832abc8a:17eb61f1815b9c3670eac8866a52ca9ca47b8d7ff052ef4bc2b39863d79a3654",
+    "role": "technician",
+    "email": "tech@test.com",
+    "full_name": "Tech User",
+    "created_at": "2025-08-01T14:48:07.849698",
+    "last_login": null,
+    "login_count": 0,
+    "is_active": true
+  },
+  "super_user": {
+    "username": "super_user",
+    "password_hash": "daa0080d1a572a272c53a04750edda62:e5322bd429d5c72b9582f3e7fa97e4db3402c39cc97f8aa55a68ad98d73c2c46",
+    "role": "supervisor",
+    "email": "super@test.com",
+    "full_name": "Super User",
+    "created_at": "2025-08-01T14:48:07.896792",
+    "last_login": null,
+    "login_count": 0,
+    "is_active": true
+  },
+  "view_user": {
+    "username": "view_user",
+    "password_hash": "52de469e59fc51a57768a445d84c7ea6:0c5811065ba46edcbaf907c7ed7bc14e16e8e70bd14b74ba860b31c2fe469470",
+    "role": "viewer",
+    "email": "view@test.com",
+    "full_name": "View User",
+    "created_at": "2025-08-01T14:48:07.943462",
+    "last_login": null,
+    "login_count": 0,
+    "is_active": true
+  }
+}

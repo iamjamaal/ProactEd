@@ -1,0 +1,455 @@
+{
+  "date": "2025-07-26",
+  "summary": {
+    "total_equipment": 50,
+    "critical_risk": 5,
+    "high_risk": 26,
+    "medium_risk": 19,
+    "low_risk": 0,
+    "alerts_generated": 50
+  },
+  "alerts": [
+    {
+      "equipment_id": 1501,
+      "failure_probability": 0.24845677168322627,
+      "risk_level": "medium",
+      "timestamp": "2025-07-26T20:40:46.847123",
+      "message": "Equipment 1501 requires attention - medium risk",
+      "recommended_action": "Plan maintenance within 30 days - Increase monitoring frequency"
+    },
+    {
+      "equipment_id": 2586,
+      "failure_probability": 0.6892894392744189,
+      "risk_level": "high",
+      "timestamp": "2025-07-26T20:40:46.847123",
+      "message": "Equipment 2586 requires attention - high risk",
+      "recommended_action": "Schedule maintenance within 7 days - Monitor closely"
+    },
+    {
+      "equipment_id": 2653,
+      "failure_probability": 0.3753758156749037,
+      "risk_level": "medium",
+      "timestamp": "2025-07-26T20:40:46.847123",
+      "message": "Equipment 2653 requires attention - medium risk",
+      "recommended_action": "Plan maintenance within 30 days - Increase monitoring frequency"
+    },
+    {
+      "equipment_id": 1055,
+      "failure_probability": 0.530235000200511,
+      "risk_level": "high",
+      "timestamp": "2025-07-26T20:40:46.847123",
+      "message": "Equipment 1055 requires attention - high risk",
+      "recommended_action": "Schedule maintenance within 7 days - Monitor closely"
+    },
+    {
+      "equipment_id": 705,
+      "failure_probability": 0.3746400723572278,
+      "risk_level": "medium",
+      "timestamp": "2025-07-26T20:40:46.847123",
+      "message": "Equipment 705 requires attention - medium risk",
+      "recommended_action": "Plan maintenance within 30 days - Increase monitoring frequency"
+    },
+    {
+      "equipment_id": 106,
+      "failure_probability": 0.5648103621362812,
+      "risk_level": "high",
+      "timestamp": "2025-07-26T20:40:46.847123",
+      "message": "Equipment 106 requires attention - high risk",
+      "recommended_action": "Schedule maintenance within 7 days - Monitor closely"
+    },
+    {
+      "equipment_id": 589,
+      "failure_probability": 0.39687794300452345,
+      "risk_level": "medium",
+      "timestamp": "2025-07-26T20:40:46.847123",
+      "message": "Equipment 589 requires attention - medium risk",
+      "recommended_action": "Plan maintenance within 30 days - Increase monitoring frequency"
+    },
+    {
+      "equipment_id": 2468,
+      "failure_probability": 0.6042651832817041,
+      "risk_level": "high",
+      "timestamp": "2025-07-26T20:40:46.847123",
+      "message": "Equipment 2468 requires attention - high risk",
+      "recommended_action": "Schedule maintenance within 7 days - Monitor closely"
+    },
+    {
+      "equipment_id": 2413,
+      "failure_probability": 0.6213438074302555,
+      "risk_level": "high",
+      "timestamp": "2025-07-26T20:40:46.847123",
+      "message": "Equipment 2413 requires attention - high risk",
+      "recommended_action": "Schedule maintenance within 7 days - Monitor closely"
+    },
+    {
+      "equipment_id": 1600,
+      "failure_probability": 0.34224795970502114,
+      "risk_level": "medium",
+      "timestamp": "2025-07-26T20:40:46.847123",
+      "message": "Equipment 1600 requires attention - medium risk",
+      "recommended_action": "Plan maintenance within 30 days - Increase monitoring frequency"
+    },
+    {
+      "equipment_id": 2464,
+      "failure_probability": 0.7484463128891625,
+      "risk_level": "critical",
+      "timestamp": "2025-07-26T20:40:46.847123",
+      "message": "Equipment 2464 requires attention - critical risk",
+      "recommended_action": "IMMEDIATE MAINTENANCE REQUIRED - Stop operation and schedule emergency repair"
+    },
+    {
+      "equipment_id": 228,
+      "failure_probability": 0.23708112128565248,
+      "risk_level": "medium",
+      "timestamp": "2025-07-26T20:40:46.847123",
+      "message": "Equipment 228 requires attention - medium risk",
+      "recommended_action": "Plan maintenance within 30 days - Increase monitoring frequency"
+    },
+    {
+      "equipment_id": 915,
+      "failure_probability": 0.5459438134871228,
+      "risk_level": "high",
+      "timestamp": "2025-07-26T20:40:46.847123",
+      "message": "Equipment 915 requires attention - high risk",
+      "recommended_action": "Schedule maintenance within 7 days - Monitor closely"
+    },
+    {
+      "equipment_id": 794,
+      "failure_probability": 0.3416978621512541,
+      "risk_level": "medium",
+      "timestamp": "2025-07-26T20:40:46.847123",
+      "message": "Equipment 794 requires attention - medium risk",
+      "recommended_action": "Plan maintenance within 30 days - Increase monitoring frequency"
+    },
+    {
+      "equipment_id": 3021,
+      "failure_probability": 0.37644458609972115,
+      "risk_level": "medium",
+      "timestamp": "2025-07-26T20:40:46.847123",
+      "message": "Equipment 3021 requires attention - medium risk",
+      "recommended_action": "Plan maintenance within 30 days - Increase monitoring frequency"
+    },
+    {
+      "equipment_id": 3543,
+      "failure_probability": 0.28629517798560067,
+      "risk_level": "medium",
+      "timestamp": "2025-07-26T20:40:46.847123",
+      "message": "Equipment 3543 requires attention - medium risk",
+      "recommended_action": "Plan maintenance within 30 days - Increase monitoring frequency"
+    },
+    {
+      "equipment_id": 1073,
+      "failure_probability": 0.6573379410050074,
+      "risk_level": "high",
+      "timestamp": "2025-07-26T20:40:46.847123",
+      "message": "Equipment 1073 requires attention - high risk",
+      "recommended_action": "Schedule maintenance within 7 days - Monitor closely"
+    },
+    {
+      "equipment_id": 3351,
+      "failure_probability": 0.5880956588848831,
+      "risk_level": "high",
+      "timestamp": "2025-07-26T20:40:46.847123",
+      "message": "Equipment 3351 requires attention - high risk",
+      "recommended_action": "Schedule maintenance within 7 days - Monitor closely"
+    },
+    {
+      "equipment_id": 1744,
+      "failure_probability": 0.7598204850989332,
+      "risk_level": "critical",
+      "timestamp": "2025-07-26T20:40:46.847123",
+      "message": "Equipment 1744 requires attention - critical risk",
+      "recommended_action": "IMMEDIATE MAINTENANCE REQUIRED - Stop operation and schedule emergency repair"
+    },
+    {
+      "equipment_id": 1084,
+      "failure_probability": 0.29799639232488706,
+      "risk_level": "medium",
+      "timestamp": "2025-07-26T20:40:46.847123",
+      "message": "Equipment 1084 requires attention - medium risk",
+      "recommended_action": "Plan maintenance within 30 days - Increase monitoring frequency"
+    },
+    {
+      "equipment_id": 926,
+      "failure_probability": 0.3604426918193895,
+      "risk_level": "medium",
+      "timestamp": "2025-07-26T20:40:46.847123",
+      "message": "Equipment 926 requires attention - medium risk",
+      "recommended_action": "Plan maintenance within 30 days - Increase monitoring frequency"
+    },
+    {
+      "equipment_id": 3049,
+      "failure_probability": 0.500964439820883,
+      "risk_level": "high",
+      "timestamp": "2025-07-26T20:40:46.847123",
+      "message": "Equipment 3049 requires attention - high risk",
+      "recommended_action": "Schedule maintenance within 7 days - Monitor closely"
+    },
+    {
+      "equipment_id": 1117,
+      "failure_probability": 0.727112329991472,
+      "risk_level": "critical",
+      "timestamp": "2025-07-26T20:40:46.847123",
+      "message": "Equipment 1117 requires attention - critical risk",
+      "recommended_action": "IMMEDIATE MAINTENANCE REQUIRED - Stop operation and schedule emergency repair"
+    },
+    {
+      "equipment_id": 642,
+      "failure_probability": 0.30337365923561044,
+      "risk_level": "medium",
+      "timestamp": "2025-07-26T20:40:46.847123",
+      "message": "Equipment 642 requires attention - medium risk",
+      "recommended_action": "Plan maintenance within 30 days - Increase monitoring frequency"
+    },
+    {
+      "equipment_id": 4767,
+      "failure_probability": 0.8374726261961322,
+      "risk_level": "critical",
+      "timestamp": "2025-07-26T20:40:46.847123",
+      "message": "Equipment 4767 requires attention - critical risk",
+      "recommended_action": "IMMEDIATE MAINTENANCE REQUIRED - Stop operation and schedule emergency repair"
+    },
+    {
+      "equipment_id": 501,
+      "failure_probability": 0.34429890942902275,
+      "risk_level": "medium",
+      "timestamp": "2025-07-26T20:40:46.847123",
+      "message": "Equipment 501 requires attention - medium risk",
+      "recommended_action": "Plan maintenance within 30 days - Increase monitoring frequency"
+    },
+    {
+      "equipment_id": 4066,
+      "failure_probability": 0.6775061355342195,
+      "risk_level": "high",
+      "timestamp": "2025-07-26T20:40:46.848142",
+      "message": "Equipment 4066 requires attention - high risk",
+      "recommended_action": "Schedule maintenance within 7 days - Monitor closely"
+    },
+    {
+      "equipment_id": 333,
+      "failure_probability": 0.3800744104239567,
+      "risk_level": "medium",
+      "timestamp": "2025-07-26T20:40:46.848142",
+      "message": "Equipment 333 requires attention - medium risk",
+      "recommended_action": "Plan maintenance within 30 days - Increase monitoring frequency"
+    },
+    {
+      "equipment_id": 4684,
+      "failure_probability": 0.48892584478749845,
+      "risk_level": "high",
+      "timestamp": "2025-07-26T20:40:46.848142",
+      "message": "Equipment 4684 requires attention - high risk",
+      "recommended_action": "Schedule maintenance within 7 days - Monitor closely"
+    },
+    {
+      "equipment_id": 486,
+      "failure_probability": 0.5710006794893809,
+      "risk_level": "high",
+      "timestamp": "2025-07-26T20:40:46.848142",
+      "message": "Equipment 486 requires attention - high risk",
+      "recommended_action": "Schedule maintenance within 7 days - Monitor closely"
+    },
+    {
+      "equipment_id": 1962,
+      "failure_probability": 0.5901555304160908,
+      "risk_level": "high",
+      "timestamp": "2025-07-26T20:40:46.848142",
+      "message": "Equipment 1962 requires attention - high risk",
+      "recommended_action": "Schedule maintenance within 7 days - Monitor closely"
+    },
+    {
+      "equipment_id": 393,
+      "failure_probability": 0.4473267167841833,
+      "risk_level": "high",
+      "timestamp": "2025-07-26T20:40:46.848142",
+      "message": "Equipment 393 requires attention - high risk",
+      "recommended_action": "Schedule maintenance within 7 days - Monitor closely"
+    },
+    {
+      "equipment_id": 4842,
+      "failure_probability": 0.6786894906725937,
+      "risk_level": "high",
+      "timestamp": "2025-07-26T20:40:46.848142",
+      "message": "Equipment 4842 requires attention - high risk",
+      "recommended_action": "Schedule maintenance within 7 days - Monitor closely"
+    },
+    {
+      "equipment_id": 4866,
+      "failure_probability": 0.4019482666381894,
+      "risk_level": "high",
+      "timestamp": "2025-07-26T20:40:46.848142",
+      "message": "Equipment 4866 requires attention - high risk",
+      "recommended_action": "Schedule maintenance within 7 days - Monitor closely"
+    },
+    {
+      "equipment_id": 1755,
+      "failure_probability": 0.5184228423935068,
+      "risk_level": "high",
+      "timestamp": "2025-07-26T20:40:46.848142",
+      "message": "Equipment 1755 requires attention - high risk",
+      "recommended_action": "Schedule maintenance within 7 days - Monitor closely"
+    },
+    {
+      "equipment_id": 2515,
+      "failure_probability": 0.3342529622555289,
+      "risk_level": "medium",
+      "timestamp": "2025-07-26T20:40:46.848142",
+      "message": "Equipment 2515 requires attention - medium risk",
+      "recommended_action": "Plan maintenance within 30 days - Increase monitoring frequency"
+    },
+    {
+      "equipment_id": 3585,
+      "failure_probability": 0.2120916342134771,
+      "risk_level": "medium",
+      "timestamp": "2025-07-26T20:40:46.848142",
+      "message": "Equipment 3585 requires attention - medium risk",
+      "recommended_action": "Plan maintenance within 30 days - Increase monitoring frequency"
+    },
+    {
+      "equipment_id": 4315,
+      "failure_probability": 0.48523521684472254,
+      "risk_level": "high",
+      "timestamp": "2025-07-26T20:40:46.848142",
+      "message": "Equipment 4315 requires attention - high risk",
+      "recommended_action": "Schedule maintenance within 7 days - Monitor closely"
+    },
+    {
+      "equipment_id": 4966,
+      "failure_probability": 0.7280062518155392,
+      "risk_level": "critical",
+      "timestamp": "2025-07-26T20:40:46.848142",
+      "message": "Equipment 4966 requires attention - critical risk",
+      "recommended_action": "IMMEDIATE MAINTENANCE REQUIRED - Stop operation and schedule emergency repair"
+    },
+    {
+      "equipment_id": 2099,
+      "failure_probability": 0.37173178209714863,
+      "risk_level": "medium",
+      "timestamp": "2025-07-26T20:40:46.848142",
+      "message": "Equipment 2099 requires attention - medium risk",
+      "recommended_action": "Plan maintenance within 30 days - Increase monitoring frequency"
+    },
+    {
+      "equipment_id": 3599,
+      "failure_probability": 0.5379584867470512,
+      "risk_level": "high",
+      "timestamp": "2025-07-26T20:40:46.848142",
+      "message": "Equipment 3599 requires attention - high risk",
+      "recommended_action": "Schedule maintenance within 7 days - Monitor closely"
+    },
+    {
+      "equipment_id": 4121,
+      "failure_probability": 0.5685822913971734,
+      "risk_level": "high",
+      "timestamp": "2025-07-26T20:40:46.848142",
+      "message": "Equipment 4121 requires attention - high risk",
+      "recommended_action": "Schedule maintenance within 7 days - Monitor closely"
+    },
+    {
+      "equipment_id": 29,
+      "failure_probability": 0.5719610507861388,
+      "risk_level": "high",
+      "timestamp": "2025-07-26T20:40:46.848142",
+      "message": "Equipment 29 requires attention - high risk",
+      "recommended_action": "Schedule maintenance within 7 days - Monitor closely"
+    },
+    {
+      "equipment_id": 65,
+      "failure_probability": 0.5471687401307921,
+      "risk_level": "high",
+      "timestamp": "2025-07-26T20:40:46.848142",
+      "message": "Equipment 65 requires attention - high risk",
+      "recommended_action": "Schedule maintenance within 7 days - Monitor closely"
+    },
+    {
+      "equipment_id": 838,
+      "failure_probability": 0.4769006948464448,
+      "risk_level": "high",
+      "timestamp": "2025-07-26T20:40:46.848142",
+      "message": "Equipment 838 requires attention - high risk",
+      "recommended_action": "Schedule maintenance within 7 days - Monitor closely"
+    },
+    {
+      "equipment_id": 3906,
+      "failure_probability": 0.5489745734849367,
+      "risk_level": "high",
+      "timestamp": "2025-07-26T20:40:46.848142",
+      "message": "Equipment 3906 requires attention - high risk",
+      "recommended_action": "Schedule maintenance within 7 days - Monitor closely"
+    },
+    {
+      "equipment_id": 3773,
+      "failure_probability": 0.3444658584499434,
+      "risk_level": "medium",
+      "timestamp": "2025-07-26T20:40:46.848142",
+      "message": "Equipment 3773 requires attention - medium risk",
+      "recommended_action": "Plan maintenance within 30 days - Increase monitoring frequency"
+    },
+    {
+      "equipment_id": 4635,
+      "failure_probability": 0.30608271990689995,
+      "risk_level": "medium",
+      "timestamp": "2025-07-26T20:40:46.848142",
+      "message": "Equipment 4635 requires attention - medium risk",
+      "recommended_action": "Plan maintenance within 30 days - Increase monitoring frequency"
+    },
+    {
+      "equipment_id": 3161,
+      "failure_probability": 0.5156630390614387,
+      "risk_level": "high",
+      "timestamp": "2025-07-26T20:40:46.848142",
+      "message": "Equipment 3161 requires attention - high risk",
+      "recommended_action": "Schedule maintenance within 7 days - Monitor closely"
+    },
+    {
+      "equipment_id": 2659,
+      "failure_probability": 0.6087604014187499,
+      "risk_level": "high",
+      "timestamp": "2025-07-26T20:40:46.848142",
+      "message": "Equipment 2659 requires attention - high risk",
+      "recommended_action": "Schedule maintenance within 7 days - Monitor closely"
+    }
+  ],
+  "top_risk_equipment": [
+    {
+      "failure_probability": 0.8374726261961322,
+      "risk_level": "critical"
+    },
+    {
+      "failure_probability": 0.7598204850989332,
+      "risk_level": "critical"
+    },
+    {
+      "failure_probability": 0.7484463128891625,
+      "risk_level": "critical"
+    },
+    {
+      "failure_probability": 0.7280062518155392,
+      "risk_level": "critical"
+    },
+    {
+      "failure_probability": 0.727112329991472,
+      "risk_level": "critical"
+    },
+    {
+      "failure_probability": 0.6892894392744189,
+      "risk_level": "high"
+    },
+    {
+      "failure_probability": 0.6786894906725937,
+      "risk_level": "high"
+    },
+    {
+      "failure_probability": 0.6775061355342195,
+      "risk_level": "high"
+    },
+    {
+      "failure_probability": 0.6573379410050074,
+      "risk_level": "high"
+    },
+    {
+      "failure_probability": 0.6213438074302555,
+      "risk_level": "high"
+    }
+  ]
+}

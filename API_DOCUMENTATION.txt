@@ -1,0 +1,76 @@
+
+EQUIPMENT FAILURE PREDICTION API DOCUMENTATION
+==============================================
+
+ENDPOINTS:
+
+1. Health Check
+   GET /health
+   Returns: API status and model availability
+
+2. Single Prediction
+   POST /predict
+   Body: JSON with equipment features
+   Returns: Failure probability and maintenance urgency
+
+3. Batch Prediction
+   POST /batch_predict
+   Body: JSON array or CSV file with multiple equipment
+   Returns: Predictions for all equipment
+
+4. Model Information
+   GET /model_info
+   Returns: Model details and performance metrics
+
+5. Maintenance Schedule
+   POST /maintenance_schedule
+   Body: JSON with equipment data
+   Returns: Prioritized maintenance schedule
+
+EXAMPLE REQUESTS:
+
+Single Prediction:
+curl -X POST http://localhost:5000/predict \
+  -H "Content-Type: application/json" \
+  -d '{"age_months": 36, "daily_usage_hours": 8, "last_maintenance_days": 120}'
+
+Batch Prediction:
+curl -X POST http://localhost:5000/batch_predict \
+  -H "Content-Type: application/json" \
+  -d '[{"age_months": 36, "daily_usage_hours": 8}, {"age_months": 12, "daily_usage_hours": 4}]'
+
+DEPLOYMENT:
+1. Install Flask: pip install flask
+2. Run API: python equipment_api.py
+3. API available at: http://localhost:5000
+
+RESPONSE FORMAT:
+{
+  "predictions": [
+    {
+      "equipment_id": "EQ001",
+      "failure_probability": 0.65,
+      "maintenance_urgency": "high",
+      "alert_required": true,
+      "prediction_timestamp": "2024-01-15T10:30:00"
+    }
+  ]
+}
+
+ERROR HANDLING:
+- 400: Bad Request (missing/invalid data)
+- 500: Internal Server Error (model/processing issues)
+- All errors return JSON with error message
+
+AUTHENTICATION:
+- Currently no authentication required
+- Add API keys or JWT tokens for production use
+
+RATE LIMITING:
+- No rate limiting implemented
+- Consider adding for production deployment
+
+MONITORING:
+- Logging enabled for all requests
+- Check logs for API usage and errors
+- Monitor /health endpoint for system status

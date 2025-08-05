@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-08-01T01:56:20.704480",
+  "equipment_id": "EQ-2848",
+  "equipment_type": "air_conditioner",
+  "failure_probability": 0.5263783207785411,
+  "alert_level": "high",
+  "location": "Room-LECTURE703",
+  "recommended_action": "Schedule maintenance within 7 days - Monitor closely"
+}

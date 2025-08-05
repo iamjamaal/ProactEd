@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-08-01T01:56:20.773054",
+  "equipment_id": "EQ-4620",
+  "equipment_type": "projector",
+  "failure_probability": 0.3152491731438741,
+  "alert_level": "medium",
+  "location": "Room-LECTURE642",
+  "recommended_action": "Schedule preventive maintenance within 30 days"
+}

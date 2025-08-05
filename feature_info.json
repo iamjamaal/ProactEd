@@ -1,0 +1,44 @@
+{
+  "all_features": [
+    "age_months",
+    "week_of_year",
+    "academic_usage_multiplier",
+    "daily_usage_hours",
+    "total_usage_hours",
+    "last_maintenance_days",
+    "maintenance_count",
+    "room_temperature",
+    "dust_factor",
+    "humidity",
+    "operating_temperature",
+    "power_consumption",
+    "vibration_level",
+    "dust_accumulation",
+    "humidity_level",
+    "usage_per_day",
+    "usage_vs_capacity",
+    "maintenance_frequency",
+    "maintenance_overdue",
+    "temperature_stress",
+    "environmental_stress",
+    "is_projector",
+    "is_air_conditioner",
+    "is_podium",
+    "equipment_type_encoded",
+    "room_type_encoded",
+    "age_category_encoded"
+  ],
+  "removed_features": [
+    "days_to_failure",
+    "failure_type",
+    "equipment_status",
+    "maintenance_urgency",
+    "degradation_score",
+    "performance_score",
+    "failure_probability"
+  ],
+  "target_variables": [
+    "failure_probability_clean",
+    "maintenance_urgency_clean"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-08-01T01:56:20.725304",
+  "equipment_id": "EQ-3412",
+  "equipment_type": "projector",
+  "failure_probability": 0.8181682733327941,
+  "alert_level": "critical",
+  "location": "Room-CLASSROOM427",
+  "recommended_action": "IMMEDIATE MAINTENANCE REQUIRED - Stop operation and schedule emergency repair"
+}
